@@ -1,3 +1,5 @@
+pangleglobal.com, 5038128, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 inmobi.com, cc06861af3344397a928cde0caa028e6, DIRECT, 83e75a7ae333ca9d
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 mintegral.com, 10003, RESELLER
